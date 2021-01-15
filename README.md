@@ -1,5 +1,7 @@
 # Analyzing the Popularity of Hacker News Posts
 
+[Full Project Link](https://github.com/OlaOlagunju/Hacker_News_Project/blob/main/Full%20Project%20-%20Analyzing%20the%20Popularity%20of%20Hacker%20News%20Posts.ipynb)
+
 ## Summary
 We investigated posts from [Hacker News](https://news.ycombinator.com/) - a social news website, under the startup incubator [Y Combinator](https://www.ycombinator.com/), with a focus on computer science and entrepreneurship. You can find the original dataset for Hacker News posts [here](https://www.kaggle.com/hacker-news/hacker-news-posts). For this project, we use the **hacker_news.csv** dataset, a modified dataset, of which approximately 300,000 data rows have been trimmed down to 20,000 rows.
 
